@@ -1,0 +1,12 @@
+in projects first file should be of index name that would act as homepage
+
+! == emmet tool kit used to represent full html sample code(boiler plate code)
+
+for comment short cut use ctrl+/
+
+for toogle word wrap--> go to settings then comment palete then type toogle word wrap...use to increase readibility of paragraph
+ 
+absolute link " https://www.tesla.com/cybertruck"
+relative link "/index.html"
+
+inline tags---those tags which take only that much width thats necessary
